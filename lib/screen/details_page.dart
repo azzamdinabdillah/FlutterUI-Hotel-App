@@ -119,7 +119,7 @@ class DetailsPage extends StatelessWidget {
                                               borderRadius:
                                                   BorderRadius.circular(10),
                                               color:
-                                                  Colors.white.withOpacity(0.2),
+                                                  Colors.white.withOpacity(0.4),
                                             ),
                                             child: Icon(
                                               Icons.bed,
@@ -154,7 +154,7 @@ class DetailsPage extends StatelessWidget {
                                               borderRadius:
                                                   BorderRadius.circular(10),
                                               color:
-                                                  Colors.white.withOpacity(0.2),
+                                                  Colors.white.withOpacity(0.4),
                                             ),
                                             child: Icon(
                                               Icons.bathroom,
@@ -292,8 +292,7 @@ class DetailsPage extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                               image: const DecorationImage(
                                 fit: BoxFit.cover,
-                                image: NetworkImage(
-                                    'https://api.lorem.space/image/house?w=150&h=150'),
+                                image: AssetImage('assets/images/inside-1.jpg'),
                               ),
                             ),
                           ),
@@ -306,8 +305,7 @@ class DetailsPage extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                               image: const DecorationImage(
                                 fit: BoxFit.cover,
-                                image: NetworkImage(
-                                    'https://api.lorem.space/image/house?w=150&h=150'),
+                                image: AssetImage('assets/images/inside-2.jpg'),
                               ),
                             ),
                           ),
@@ -320,8 +318,7 @@ class DetailsPage extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                               image: const DecorationImage(
                                 fit: BoxFit.cover,
-                                image: NetworkImage(
-                                    'https://api.lorem.space/image/house?w=150&h=150'),
+                                image: AssetImage('assets/images/inside-3.jpg'),
                               ),
                             ),
                           ),
@@ -334,8 +331,7 @@ class DetailsPage extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                               image: const DecorationImage(
                                 fit: BoxFit.cover,
-                                image: NetworkImage(
-                                    'https://api.lorem.space/image/house?w=150&h=150'),
+                                image: AssetImage('assets/images/inside-4.jpg'),
                               ),
                             ),
                           ),
@@ -348,8 +344,7 @@ class DetailsPage extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                               image: const DecorationImage(
                                 fit: BoxFit.cover,
-                                image: NetworkImage(
-                                    'https://api.lorem.space/image/house?w=150&h=150'),
+                                image: AssetImage('assets/images/inside-1.jpg'),
                               ),
                             ),
                           ),
@@ -362,8 +357,7 @@ class DetailsPage extends StatelessWidget {
                               borderRadius: BorderRadius.circular(20),
                               image: const DecorationImage(
                                 fit: BoxFit.cover,
-                                image: NetworkImage(
-                                    'https://api.lorem.space/image/house?w=150&h=150'),
+                                image: AssetImage('assets/images/inside-2.jpg'),
                               ),
                             ),
                           ),
@@ -383,7 +377,7 @@ class DetailsPage extends StatelessWidget {
               left: 0,
               right: 0,
               child: Container(
-                padding: EdgeInsets.all(20),
+                padding: EdgeInsets.symmetric(horizontal: 20, vertical: 15),
                 // height: 50,
                 decoration: BoxDecoration(
                   boxShadow: [
@@ -409,7 +403,7 @@ class DetailsPage extends StatelessWidget {
                             'Price',
                             style: TextStyle(
                               color: Colors.black54,
-                              fontSize: 18,
+                              fontSize: 16,
                             ),
                           ),
                           Padding(
@@ -417,7 +411,7 @@ class DetailsPage extends StatelessWidget {
                             child: Text(
                               'Rp. 250.000.000.000 / Year',
                               style: TextStyle(
-                                fontSize: 19,
+                                fontSize: 18,
                                 fontWeight: FontWeight.w500,
                               ),
                             ),

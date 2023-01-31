@@ -1,4 +1,4 @@
-# hotel_app
+# FLutterUI Hotel App
 
 A new Flutter project.
 
