@@ -1,16 +1,10 @@
 # FLutterUI Hotel App
 
-A new Flutter project.
+Design By Rendy Vikriansyah
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
+![smartmockups_ldiuv7zh](https://user-images.githubusercontent.com/46639134/215778351-70d8565e-b631-4b68-aa45-113751b32fe0.png)
+![details-page-2](https://user-images.githubusercontent.com/46639134/215778381-7229e247-fcc6-47c0-ac45-5e504156a3da.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
