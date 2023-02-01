@@ -4,7 +4,7 @@ Design By Rendy Vikriansyah
 
 # Preview
 
-![smartmockups_ldiuv7zh](https://user-images.githubusercontent.com/46639134/215778351-70d8565e-b631-4b68-aa45-113751b32fe0.png)
-![details-page-2](https://user-images.githubusercontent.com/46639134/215778381-7229e247-fcc6-47c0-ac45-5e504156a3da.png)
+<img src="https://user-images.githubusercontent.com/46639134/216053814-ea654ef3-4545-4b82-99df-a44694e11d4b.png" width="400" >
+<img src="https://user-images.githubusercontent.com/46639134/216054356-f650f77e-695b-48fa-a574-ea817d134a08.png" width="400" >
 
 
